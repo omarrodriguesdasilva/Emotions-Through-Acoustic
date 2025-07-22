@@ -1,6 +1,8 @@
 # Emotions-Through-Acoustic
 Article title: Performance evaluation of emotion recognition algorithms in Brazilian Portuguese language audios
+
 Journal: IEEE Latin American Transactions
+
 Submission ID 9577
 
 Description: This project makes a performance evaluation of three algorithms which make a emotion recognition using acoustic features: Deep, RosaJr and Souza. Each folder contains the code used to evaluate the performance for each algorithm. 
