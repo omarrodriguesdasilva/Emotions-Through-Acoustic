@@ -39,7 +39,8 @@ folder EmotionsThroughAcoustic-Deep: contains the Python code to evaluate the pe
 
 folder EmotionsThroughAcoustic-RosaJr: contains the Python code to evaluate the performance of algorithm RosaJr
 - "Copiar train-test-files.py": routine to call the train and test for each type of testing
-- "audioTrainTest_Omar.py": copy of routine auditoTrainTest.py" (PyAudioanalysis) to run under windows (to include the windows operating system separator for files)
+- "audioTrainTest_Omar.py": copy of routine "audioTrainTest.py" (PyAudioanalysis) to run under windows (to include the windows operating system separator for files)
+- "MidTermFeatures_Omar.py": copy of routine "MidTermFeatures.py" (PyAudioanalysis) to run under windows  
 - "correcao audio-codec-freq.py": adjustments of audio features coded and frequency to standardize them (the audios have different codec and frequency)
 - "dataset_loader.py": routine to load BADEM dataset features
 - "dataset_loaderv.py": routine to load VERBO dataset features
